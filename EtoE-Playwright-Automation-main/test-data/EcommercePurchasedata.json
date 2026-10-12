@@ -1,0 +1,24 @@
+{
+    "url": "https://rahulshettyacademy.com/client/#/auth/login",
+    "productName": "ZARA COAT 3",
+    "user": {
+        "email": "example34@gmail.com",
+        "password": "Mutthu3234#"
+    },
+    "invalidUser": {
+        "email": "invalid.user@fake.com",
+        "password": "WrongPassword@123"
+    },
+    "country": {
+        "input": "ind",
+        "name": " India"
+    },
+    "payment": {
+        "cardNumber": "1234 5678 9123 4567",
+        "expiryMonth": "04",
+        "expiryYear": "28",
+        "cvv": "324",
+        "nameOnCard": "Mutthuluri Varun Kumar"
+    },
+    "couponCode": "rahulshettyacademy"
+}
